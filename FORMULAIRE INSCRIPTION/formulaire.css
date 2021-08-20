@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url(boitumelo-phetla-1gZQ5chmcH0-unsplash.jpg);
+    background-size: cover;
+}
+.contener{
+    color: cyan;
+    background-color:rgba(0, 0, 0, 0.5);
+    border-radius:5px 7px;
+    
+}
+.po{
+    position: absolute;
+    left: 20px;
+    top: 40px;
+}
+h2{
+    color:chartreuse;
+}
+h1{
+    color:floralwhite;
+}
+p{
+    color: rgb(251, 255, 255);
+    font-style: italic;
+    font-size: 16px;
+}
